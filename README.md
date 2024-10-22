@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haikalmsg&label=Profile%20views&color=0e75b6&style=flat" alt="haikalmsg" /> </p> 
 
 - 👀 I’m interested in Machine Learning, Computer Vision, and Web Development
-- 🌱 I’m currently working on an E-Shopping website
+- 🌱 I’m currently working at Tokopedia
 - 📫 Reach me on haikalrasyad@gmail.com
 
 **Connect with me**
